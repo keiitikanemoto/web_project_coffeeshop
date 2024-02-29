@@ -1,0 +1,11 @@
+.menu {
+  height: 100vh;
+  background-color: #FFF;
+  background-image:url(../images/background_menu.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.menu__title {
+  max-width: px;
+}
